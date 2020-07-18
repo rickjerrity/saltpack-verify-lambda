@@ -1,0 +1,25 @@
+{
+  "name": "saltpack-verify-lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "saltpack",
+    "keybase",
+    "verify",
+    "lambda",
+    "AWS"
+  ],
+  "author": {
+    "name": "rickjerrity",
+    "url": "https://blackhole.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rickjerrity/saltpack-verify-lambda.git"
+  },
+  "license": "MIT",
+  "description": "An AWS Lambda code example for verifying signed Saltpack messages."
+}
