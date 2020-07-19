@@ -2,6 +2,8 @@
 
 This is an [AWS Lambda](https://aws.amazon.com/lambda/) NodeJS project that verifies [Saltpack](https://saltpack.org/) messages, returning the verified message and the user it was signed by, or an error if there was one.
 
+[Example webpage calling this lambda](https://blackhole.dev/saltpack-verify)
+
 ## Installation
 
 Follow the instructions in the `README.md` file inside of the `keybase` directory to get started.
